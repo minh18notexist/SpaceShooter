@@ -1,0 +1,25 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Space Shooter</string>
+
+    <!-- StartUp screen -->
+    <string name="start_game_description">Start Game</string>
+    <string name="play">Play</string>
+    <string name="play_button_description">Tap to start the game</string>
+    <string name="high_score">High Score: %1$d</string>
+
+    <!-- GameOver screen -->
+    <string name="your_score">Your Score: %1$d</string>
+    <string name="new_high_score">🎉 New High Score: %1$d!</string>
+    <string name="exit">Exit</string>
+    <string name="restart">Restart</string>
+
+    <!-- Buttons -->
+    <string name="btn_restart_desc">Restart the game</string>
+    <string name="btn_exit_desc">Exit the game</string>
+
+    <!-- Sound content descriptions -->
+    <string name="sound_gameover">Game Over Sound</string>
+    <string name="sound_shoot">Shoot Sound</string>
+    <string name="sound_explosion">Explosion Sound</string>
+</resources>
