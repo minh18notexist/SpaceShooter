@@ -15,7 +15,7 @@ A classic 2D space shooting game developed in **Kotlin** using **Android Studio*
 
 *(Add your gameplay or UI screenshots here)*  
 Example:
-![image](https://github.com/user-attachments/assets/15056089-e73e-4e32-82d3-c30c4ff79a40)
+"C:\Users\anosv\Downloads\gameplay.jpg"
 
 
 ## 🔧 How to Run
